@@ -31,8 +31,6 @@ public class Main {
 
         // start new game
         newGame(moves, maxMovesPerParticipant, scan);
-
-
     }
 
     public static void newGame(int moves, int maxMovesPerParticipant, Scanner scan) {
